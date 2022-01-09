@@ -1,6 +1,6 @@
 [package]
 name = "rosey-actors"
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT"
 homepage = "https://github.com/jantap/rosey-actors"
 repository = "https://github.com/jantap/rosey-actors"
